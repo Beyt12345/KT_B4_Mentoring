@@ -1,6 +1,8 @@
 package arrays;
 
 public class ArraysDataTypes {
+
+    //new repo
     public static void main(String[] args) {
         int [] dizi1 =new int[5];
         String [] dizi2=new String[6];
